@@ -1,0 +1,37 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient-summit" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="400" fill="url(#gradient-summit)" />
+  
+  <!-- Stage/Platform -->
+  <rect x="100" y="250" width="600" height="80" fill="rgba(255,255,255,0.2)" />
+  <rect x="300" y="200" width="200" height="50" fill="rgba(255,255,255,0.3)" />
+  
+  <!-- Podium -->
+  <rect x="380" y="220" width="40" height="30" fill="rgba(255,255,255,0.4)" />
+  
+  <!-- Audience seats -->
+  <rect x="120" y="280" width="15" height="15" fill="rgba(255,255,255,0.3)" />
+  <rect x="140" y="280" width="15" height="15" fill="rgba(255,255,255,0.3)" />
+  <rect x="160" y="280" width="15" height="15" fill="rgba(255,255,255,0.3)" />
+  <rect x="180" y="280" width="15" height="15" fill="rgba(255,255,255,0.3)" />
+  
+  <rect x="220" y="280" width="15" height="15" fill="rgba(255,255,255,0.3)" />
+  <rect x="240" y="280" width="15" height="15" fill="rgba(255,255,255,0.3)" />
+  <rect x="260" y="280" width="15" height="15" fill="rgba(255,255,255,0.3)" />
+  <rect x="280" y="280" width="15" height="15" fill="rgba(255,255,255,0.3)" />
+  
+  <!-- Speaker figure -->
+  <circle cx="400" cy="200" r="15" fill="rgba(255,255,255,0.4)" />
+  <rect x="390" y="215" width="20" height="25" fill="rgba(255,255,255,0.3)" />
+  
+  <!-- Decorative elements -->
+  <polygon points="200,100 220,140 180,140" fill="rgba(255,255,255,0.3)" />
+  <polygon points="600,100 620,140 580,140" fill="rgba(255,255,255,0.3)" />
+  
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="20" font-weight="bold">Women Empowerment Summit</text>
+</svg> 

@@ -1,0 +1,13 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F59E0B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D97706;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#gradient6)" />
+  <polygon points="200,70 230,130 170,130" fill="rgba(255,255,255,0.3)" />
+  <rect x="180" y="140" width="40" height="80" rx="20" fill="rgba(255,255,255,0.2)" />
+  <circle cx="200" cy="240" r="20" fill="rgba(255,255,255,0.3)" />
+  <text x="200" y="285" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold">Academic Success</text>
+</svg> 
